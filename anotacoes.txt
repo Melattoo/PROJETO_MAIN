@@ -1,0 +1,6 @@
+PRIMEIRA ETAPA:
+Na primeira etapa é necessário upar o arquivo e a criação da estrutura de pastas.
+Criação das pastas e arquivos bases para estrutura do projeto usando boas práticas;
+A base escolhida era a muito grande, o que me trouxe problemas ao subir para o github, então a escolhida foi a “Brazilian E-Commerce Public Dataset by Olist” https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce diretamente do kaggle
+Instalação do Git na máquina (Atualmente usando o Fedora 42, o que sempre preciso lembrar de que no FEDORA não é utilizado o gerenciador de pacote APT e sim o DNF, mas isso é conversa para outra hora)
+Transformei todos os arquivos em "df" para facilitar a exploração e o tratamento futuro
