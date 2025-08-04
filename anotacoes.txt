@@ -1,3 +1,6 @@
+Base Utilizada:
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
 PRIMEIRA ETAPA:
 Na primeira etapa é necessário upar o arquivo e a criação da estrutura de pastas.
 Criação das pastas e arquivos bases para estrutura do projeto usando boas práticas;
